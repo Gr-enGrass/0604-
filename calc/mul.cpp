@@ -2,5 +2,7 @@
 
 int mul(int x, int y)
 {
-	return 0;
+
+	//종훈이가 한거
+	return  x * y;
 }
