@@ -2,5 +2,6 @@
 
 int add(int x, int y)
 {
-	return 0;
+	// ´õÇÏ±â 
+	return x + y;
 }
